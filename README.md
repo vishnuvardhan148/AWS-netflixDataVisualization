@@ -1,4 +1,4 @@
-# 📊 Netflix Data Analysis with Amazon QuickSight  
+# 📊 Serverless Netflix data dashboard built with AWS Lambda, S3, and Quicksight.
 
 This project uses **Amazon QuickSight** to analyze a **Netflix dataset**, providing interactive dashboards that uncover key insights about movies and TV shows. 🚀  
 
